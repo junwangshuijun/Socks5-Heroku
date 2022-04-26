@@ -1,0 +1,10 @@
+{
+  "server": "socks.herokuapp.com",
+  "local_address": "0.0.0.0",
+  "scheme": "ws",
+  "local_port": 1080,
+  "remote_port": 80,
+  "password": "12320",
+  "timeout": 600,
+  "method": "aes-256-cfb"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Shadowsocks-Heroku",
+  "description": "Shadowsocks-Heroku",
+  "env": {
+    "METHOD": {
+      "description": "Encryption Method",
+      "value": "aes-256-cfb"
+    },
+    "KEY": {
+      "description": "app-password",
+      "value": ""
+    }
+  }
+}
