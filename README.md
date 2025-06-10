@@ -61,3 +61,6 @@ The supported encryption algorithm types are as follows: https://github.com/mrlu
     proxy = socks5://127.0.0.1:1080
 ```
 3. Website navigation http://www.ipv6daohang.com/
+
+## License
+Go-Socks-Proxy is released under the MIT license. See `LICENSE` for more information.
