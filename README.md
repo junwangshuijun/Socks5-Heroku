@@ -62,5 +62,9 @@ The supported encryption algorithm types are as follows: https://github.com/mrlu
 ```
 3. Website navigation http://www.ipv6daohang.com/
 
+## Contributions
+Thanks for contributing to the project.
+[![Powered by DartNode](https://dartnode.com/branding/DN-Open-Source-sm.png)](https://dartnode.com "Powered by DartNode - Free VPS for Open Source")
+
 ## License
 Go-Socks-Proxy is released under the MIT license. See `LICENSE` for more information.
